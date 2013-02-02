@@ -1,0 +1,4 @@
+/* Hides navigation links when infinite scroll is active */
+.infinite-scroll .post-nav, .infinite-scroll .wp-pagenavi {
+    display: none !important;
+}
