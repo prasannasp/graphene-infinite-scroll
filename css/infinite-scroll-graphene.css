@@ -2,3 +2,9 @@
 .infinite-scroll .post-nav, .infinite-scroll .wp-pagenavi {
     display: none !important;
 }
+
+/* Add some margin to Load more posts div */
+.infinite-scroll #infinite-handle {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
