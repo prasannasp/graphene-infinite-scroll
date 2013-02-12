@@ -7,6 +7,21 @@ Author: Prasanna SP
 Version: 1.0
 Author URI: http://www.prasannasp.net/
 */
+/*  This file is part of Infinite Scroll helper plugin for Graphene Theme. Copyright 2012 Prasanna SP (email: prasanna@prasannasp[DOT]net)
+
+    Infinite Scroll helper plugin is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Infinite Scroll helper plugin is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Infinite Scroll helper plugin.  If not, see <http://www.gnu.org/licenses/>.
+*/
 // Do not activate the plugin if the current theme is not Graphene
 $is_graphene_active_template = get_template();
 	if($is_graphene_active_template != 'graphene')
