@@ -6,7 +6,7 @@ You can configure scroll type, number of posts to load etc, in the plugin option
 
 ## Download ##
 
-### You can download this plugin here - [www.prasannasp.net/download/graphene-infinite-scroll-helper-plugin.zip](www.prasannasp.net/download/graphene-infinite-scroll-helper-plugin.zip "Download Infinite Scroll helper plugin for the Graphene Theme here"). ###
+### You can download this plugin here - <http://www.prasannasp.net/download/graphene-infinite-scroll-helper-plugin.zip>. ###
 
 ![Plugin Options page](https://raw.github.com/prasannasp/graphene-infinite-scroll/master/screenshot-1.png)
 
